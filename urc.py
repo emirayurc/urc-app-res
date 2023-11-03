@@ -10,6 +10,16 @@ st.set_page_config(layout="wide")
 df_daily_max = df.groupby('TIME')['Wind120'].max()
 df_daily_max = df_daily_max.reset_index()
 
+#gizleme
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
+
 # Günlük maksimum rüzgar hızına sahip çiftlikleri bulma
 max_farms = []
 for index, row in df_daily_max.iterrows():
