@@ -220,6 +220,7 @@ TIME,farm_unique_name,Wind120
 2023-11-03,suloglu_res,10.060833333333333
 2023-11-03,sunjut_res,8.75375
 2023-11-03,susurluk_res,11.178333333333335
+2023-11-03,taspinar_res,12.845416666666667
 2023-11-03,tatlipinar_res,12.930416666666666
 2023-11-03,tayakadin_res,7.597916666666666
 2023-11-03,tepe_res,7.8687499999999995
@@ -472,6 +473,7 @@ TIME,farm_unique_name,Wind120
 2023-11-04,suloglu_res,15.1425
 2023-11-04,sunjut_res,14.904583333333333
 2023-11-04,susurluk_res,13.910000000000002
+2023-11-04,taspinar_res,15.64875
 2023-11-04,tatlipinar_res,16.061666666666667
 2023-11-04,tayakadin_res,14.603333333333333
 2023-11-04,tepe_res,12.5225
@@ -724,6 +726,7 @@ TIME,farm_unique_name,Wind120
 2023-11-05,suloglu_res,9.387500000000001
 2023-11-05,sunjut_res,11.045833333333334
 2023-11-05,susurluk_res,11.971666666666666
+2023-11-05,taspinar_res,12.176250000000001
 2023-11-05,tatlipinar_res,12.162083333333333
 2023-11-05,tayakadin_res,12.217916666666667
 2023-11-05,tepe_res,10.31
@@ -976,6 +979,7 @@ TIME,farm_unique_name,Wind120
 2023-11-06,suloglu_res,3.8925
 2023-11-06,sunjut_res,8.91125
 2023-11-06,susurluk_res,5.889583333333333
+2023-11-06,taspinar_res,4.367916666666667
 2023-11-06,tatlipinar_res,6.123333333333334
 2023-11-06,tayakadin_res,8.512916666666667
 2023-11-06,tepe_res,8.069583333333332
@@ -1228,6 +1232,7 @@ TIME,farm_unique_name,Wind120
 2023-11-07,suloglu_res,1.24
 2023-11-07,sunjut_res,1.035
 2023-11-07,susurluk_res,1.444090909090909
+2023-11-07,taspinar_res,1.4754545454545456
 2023-11-07,tatlipinar_res,1.3990909090909092
 2023-11-07,tayakadin_res,0.9977272727272727
 2023-11-07,tepe_res,1.1195454545454544
@@ -1480,6 +1485,7 @@ TIME,farm_unique_name,Wind120
 2023-11-08,suloglu_res,4.22
 2023-11-08,sunjut_res,5.305
 2023-11-08,susurluk_res,3.035
+2023-11-08,taspinar_res,2.565
 2023-11-08,tatlipinar_res,2.7912500000000002
 2023-11-08,tayakadin_res,5.578749999999999
 2023-11-08,tepe_res,5.2625
@@ -1732,6 +1738,7 @@ TIME,farm_unique_name,Wind120
 2023-11-09,suloglu_res,10.26875
 2023-11-09,sunjut_res,13.14625
 2023-11-09,susurluk_res,11.1525
+2023-11-09,taspinar_res,9.00375
 2023-11-09,tatlipinar_res,11.505
 2023-11-09,tayakadin_res,11.97625
 2023-11-09,tepe_res,13.3025
@@ -1984,6 +1991,7 @@ TIME,farm_unique_name,Wind120
 2023-11-10,suloglu_res,1.99375
 2023-11-10,sunjut_res,5.6875
 2023-11-10,susurluk_res,5.4399999999999995
+2023-11-10,taspinar_res,3.2075
 2023-11-10,tatlipinar_res,5.62625
 2023-11-10,tayakadin_res,4.58
 2023-11-10,tepe_res,5.81625
@@ -2236,6 +2244,7 @@ TIME,farm_unique_name,Wind120
 2023-11-11,suloglu_res,7.6674999999999995
 2023-11-11,sunjut_res,8.23
 2023-11-11,susurluk_res,7.1375
+2023-11-11,taspinar_res,3.44375
 2023-11-11,tatlipinar_res,7.4675
 2023-11-11,tayakadin_res,8.56875
 2023-11-11,tepe_res,8.81875
@@ -2488,6 +2497,7 @@ TIME,farm_unique_name,Wind120
 2023-11-12,suloglu_res,3.6225
 2023-11-12,sunjut_res,8.0325
 2023-11-12,susurluk_res,5.995
+2023-11-12,taspinar_res,2.78625
 2023-11-12,tatlipinar_res,7.5375
 2023-11-12,tayakadin_res,7.2475
 2023-11-12,tepe_res,8.54375
@@ -2740,6 +2750,7 @@ TIME,farm_unique_name,Wind120
 2023-11-13,suloglu_res,2.5812500000000003
 2023-11-13,sunjut_res,3.59875
 2023-11-13,susurluk_res,1.51875
+2023-11-13,taspinar_res,1.285
 2023-11-13,tatlipinar_res,1.5075
 2023-11-13,tayakadin_res,4.255
 2023-11-13,tepe_res,3.4175
@@ -2992,6 +3003,7 @@ TIME,farm_unique_name,Wind120
 2023-11-14,suloglu_res,1.6325
 2023-11-14,sunjut_res,4.5925
 2023-11-14,susurluk_res,3.31
+2023-11-14,taspinar_res,1.72375
 2023-11-14,tatlipinar_res,3.0425
 2023-11-14,tayakadin_res,4.2825
 2023-11-14,tepe_res,4.9487499999999995
@@ -3244,6 +3256,7 @@ TIME,farm_unique_name,Wind120
 2023-11-15,suloglu_res,1.4675
 2023-11-15,sunjut_res,5.40375
 2023-11-15,susurluk_res,3.3275
+2023-11-15,taspinar_res,1.24875
 2023-11-15,tatlipinar_res,2.975
 2023-11-15,tayakadin_res,4.83
 2023-11-15,tepe_res,5.63125
@@ -3496,6 +3509,7 @@ TIME,farm_unique_name,Wind120
 2023-11-16,suloglu_res,4.825
 2023-11-16,sunjut_res,3.9725
 2023-11-16,susurluk_res,1.85
+2023-11-16,taspinar_res,1.78
 2023-11-16,tatlipinar_res,1.75375
 2023-11-16,tayakadin_res,4.45125
 2023-11-16,tepe_res,3.8024999999999998
@@ -3748,6 +3762,7 @@ TIME,farm_unique_name,Wind120
 2023-11-17,suloglu_res,2.99875
 2023-11-17,sunjut_res,3.44125
 2023-11-17,susurluk_res,4.3012500000000005
+2023-11-17,taspinar_res,1.345
 2023-11-17,tatlipinar_res,3.73375
 2023-11-17,tayakadin_res,3.16
 2023-11-17,tepe_res,3.2712499999999998
@@ -4000,6 +4015,7 @@ TIME,farm_unique_name,Wind120
 2023-11-18,suloglu_res,4.475
 2023-11-18,sunjut_res,6.9775
 2023-11-18,susurluk_res,2.66875
+2023-11-18,taspinar_res,1.8275000000000001
 2023-11-18,tatlipinar_res,2.59625
 2023-11-18,tayakadin_res,7.55625
 2023-11-18,tepe_res,6.375
