@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# CSV dosyasını yükleme
+# CSV dosyasını yükleme            
 url="ortalamalar.csv"
 df = pd.read_csv(url)
 st.set_page_config(layout="wide")
@@ -29,6 +29,7 @@ for index, row in df_daily_max.iterrows():
 
 # Kullanıcıya seçenekleri sunma
 farm_count = len(df['farm_unique_name'].unique())
+st.sidebar.write("Son Güncelleme 7 Kasım 2023")
 st.sidebar.write(f"Toplam {farm_count} saha mevcut. Lütfen saha seç:")
 selected_farms = []
 for farm in df['farm_unique_name'].unique():
